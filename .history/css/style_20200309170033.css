@@ -99,8 +99,3 @@ a {
     display: inline-block;
     margin: 0 5px;
 }
-.slider .slick-dots{
-    margin-top: -55px;
-    position: relative;
-    z-index: 6;
-}
