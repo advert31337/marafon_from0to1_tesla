@@ -180,7 +180,7 @@ a {
     list-style: none;
 }
 .advantages__descr{
-    max-width: 570px;
+    min-width: 570px;
     width: 100%;
 }
 /* .advantages__img{

@@ -159,6 +159,10 @@ a {
     align-items: center;
     position: relative;
 }
+.advantages__descr{
+    min-width: 570px;
+    width: 100%;
+}
 .advantages__title{
     font-size: 36px;
     line-height: 42px;
@@ -179,10 +183,6 @@ a {
 .advantages__text ul{
     list-style: none;
 }
-.advantages__descr{
-    max-width: 570px;
-    width: 100%;
-}
-/* .advantages__img{
+.advantages__img{
 
-} */
+}

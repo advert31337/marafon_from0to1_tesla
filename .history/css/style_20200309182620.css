@@ -156,21 +156,11 @@ a {
     margin-bottom: 100px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    position: relative;
 }
 .advantages__title{
     font-size: 36px;
     line-height: 42px;
     color: #770302;
-    position: absolute;
-    top: 0;
-    
-}
-.advantages__title--bottom{
-    right: 0;
-    bottom: 0;
-    top: auto;
 }
 .advantages__text{
     width: 303px;
@@ -179,10 +169,6 @@ a {
 .advantages__text ul{
     list-style: none;
 }
-.advantages__descr{
-    max-width: 570px;
-    width: 100%;
-}
-/* .advantages__img{
+.advantages__img{
 
-} */
+}
